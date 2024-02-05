@@ -57,3 +57,19 @@ This is a simple web application built with Flask that uses the OpenAI GPT-3 API
 
 3. Enter a story prompt and click "Generate Story" to see the GPT-3-generated story.
 
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+*Description of Screenshot 1*
+
+![Screenshot 2](screenshots/screenshot2.png)
+*Description of Screenshot 2*
+
+![Screenshot 3](screenshots/screenshot3.png)
+*Description of Screenshot 3*
+
+![Screenshot 4](screenshots/screenshot4.png)
+*Description of Screenshot 4*
+
+![Screenshot 5](screenshots/screenshot5.png)
+*Description of Screenshot 5*
